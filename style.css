@@ -76,6 +76,8 @@ h3 {
   .img-div img{
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
+    mix-blend-mode: multiply;
+    opacity: 75%;
   }
 
   .img-div{
